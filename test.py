@@ -1,1 +1,1 @@
-print("Team 6 members are Luke2...")
+print("Team 6 members are: Niamh, Shane, Luke, Laura, Luke2,")
